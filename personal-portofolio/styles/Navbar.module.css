@@ -2,6 +2,9 @@
     border: 3px solid #7456FF;
     border-radius: 5px;
 }
-@media screen and (mac-width: 760px) {
+@media screen and (max-width: 1028px) {
+    .navbar {
+        display: none;
+    }
 
 }
